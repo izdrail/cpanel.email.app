@@ -1,27 +1,27 @@
-#Cpanel Mail Creator
+# Cpanel Mail Creator
 
 This is a simple script to use for creating a email address in Cpanel Hosting Manager.
 For details please have a look to the php script.
 This is quite easy to use.
 
-#Requirements
+# Requirements
 This script requires PHP 7.3
 
-#Configuration
+# Configuration
 Please find the config folder and the cpanel.php file and change according to your configuration.
 
 
-##How to use CPanel Email Creator
+## How to use CPanel Email Creator
 ```
 git clone https://github.com/lzomedia/cpanel-cp-email-creator.git .
 ```
-##Issues
+## Issues
 If you find issues please contact me via Github.
 
-##Owner
+## Owner
 This script is created by [@Lzo Media](https://lzomedia.com)
 
-##DON'T BE A DICK PUBLIC LICENSE
+## DON'T BE A DICK PUBLIC LICENSE
 
 > Copyright (C) [2020] [Lzo Media]
 
